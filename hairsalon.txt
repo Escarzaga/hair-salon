@@ -1,0 +1,10 @@
+.carousel-inner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+
+We offer a wide variety of upscale services not just men’s haircuts, Give us a call or stop by and let us take care of you
+
+A right haircut from the best barber in Malaga could help you transform your outlook.
